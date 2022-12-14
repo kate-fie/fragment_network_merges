@@ -150,5 +150,3 @@ archive/*
 utils/misc*
 utils/*analysis*
 filter/elaboratability_evaluation.py
-
-environment.yml
